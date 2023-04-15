@@ -3190,8 +3190,15 @@ const styles = {
     whisper: {
         backgroundColor: themeColors.cardBG,
     },
+
     contextMenuItemPopoverMaxWidth: {
         maxWidth: 375,
+    },
+
+    animatedSplashScreen: {
+        backgroundColor: themeColors.splashBG,
+        alignItems: 'center',
+        justifyContent: 'center',
     },
 };
 
