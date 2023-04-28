@@ -3195,7 +3195,7 @@ const styles = {
         maxWidth: 375,
     },
 
-    animatedSplashScreen: {
+    splashScreenHider: {
         backgroundColor: themeColors.splashBG,
         alignItems: 'center',
         justifyContent: 'center',
